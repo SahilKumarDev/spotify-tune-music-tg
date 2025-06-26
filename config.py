@@ -83,18 +83,18 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
-PING_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
-PLAYLIST_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
-STATS_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
-TELEGRAM_AUDIO_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
-TELEGRAM_VIDEO_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
-STREAM_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
+START_IMG_URL = "https://files.catbox.moe/ez9xoq.jpg"
+PING_IMG_URL = "https://files.catbox.moe/ez9xoq.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/ez9xoq.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/ez9xoq.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ez9xoq.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/ez9xoq.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/ez9xoq.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/ez9xoq.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/ez9xoq.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/ez9xoq.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/ez9xoq.jpg"
 
 
 def time_to_seconds(time):
